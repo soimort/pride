@@ -1,6 +1,8 @@
 /*
-  Pride -- a minimal threaded unit testing framework for C
-*/
+ * Pride -- a lightweight unit testing framework and logging library.
+ *
+ * This is free and unencumbered software released into the public domain.
+ */
 #ifndef _PRIDE_H
 #define _PRIDE_H
 
